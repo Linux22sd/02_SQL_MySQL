@@ -1,0 +1,82 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.tabla{
+    width: 90%;
+    margin: 30px auto;
+    
+}
+
+.ttitulo{
+    border-bottom: 1px solid rgb(216, 4, 4);
+    text-transform:uppercase;
+    padding: 20px;
+    background-color: rgb(238, 238, 238) ;
+}
+.tdata{
+    border-bottom: 1px solid rgb(159, 157, 157);
+    padding: 20px;
+    text-align: center;
+}
+.imagen{
+    width: 100px;
+}
+.tcuerpo .trenglon:nth-child(even){
+    background-color: rgb(234, 234, 234);
+}
+.tcuerpo .trenglon:nth-child(odd){
+    background-color: rgb(205, 205, 205);
+}
+.agregar, .productos{
+    width: 90%;
+    margin:0px auto;
+}
+.agregar a, .productos a, .borrar, .enviar{
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+}
+a .ico{
+    width: 25px;
+    margin: 7.5px;
+}
+a .ico2{
+    width: 40px;
+}
+.registrado , .eliminado{
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    color: white;
+}
+.registrado{
+    background-color: green;
+}
+.eliminado{
+    background-color: rgb(249, 50, 50);
+}
+fieldset{
+    width: 50%;
+    margin: 10px auto;
+    background-color: rgb(239, 239, 239);
+}
+.tabla_ea{
+    margin: 10px auto;
+}
+.tabla_ea tr td input,
+.tabla_ea tr td select,
+.tabla_ea tr td textarea{
+    padding: 8px 12px;
+    margin: 10px 5px;
+}
+
+

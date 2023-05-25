@@ -1,0 +1,9 @@
+1- esta es la linea numero uno del archivo txt.
+2- esta es la linea numero dos del archivo txt.
+3- esta es la linea numero tres del archivo txt.
+4- esta es la linea numero cuatro del archivo txt.
+5- esta es la linea numero cinco del archivo txt.
+6- esta es la linea numero seis del archivo txt.
+7- esta es la linea numero siete del archivo txt.
+8- esta es la linea numero ocho del archivo txt.
+9- esta es la linea numero nueve del archivo txt.
